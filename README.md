@@ -19,4 +19,4 @@
 
 생성된 노노그램
 
-![image](https://user-images.githubusercontent.com/110909423/195649484-d70ed7ab-1382-4b55-96e1-a6402745ba3a.png)
+![image](https://user-images.githubusercontent.com/110909423/195651807-5e427c1a-854a-491d-b715-9d4b98e17949.png)
